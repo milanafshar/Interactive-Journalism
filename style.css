@@ -1,0 +1,24 @@
+h1 {
+    color:navy;
+}
+
+body {
+    width: 50%;
+margin: auto;
+}
+#byline {
+    font-family: 'Franklin Gotchic Medium','Arial narrow', Arial, sans-serif;
+}
+
+div {
+    border: solid 1px 
+    grey;
+}
+
+/* for phones */
+@media (orientation: portrait){
+    body{
+        width: 100%;
+        font-size: 1em;
+    }
+}
