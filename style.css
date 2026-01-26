@@ -1,3 +1,4 @@
+
 h1 {
     color:navy;
 }
@@ -9,7 +10,7 @@ margin: auto;
 #byline {
     font-family: 'Franklin Gotchic Medium','Arial narrow', Arial, sans-serif;
 }
-
+/* text border */
 div {
     border: solid 1px 
     grey;
@@ -19,6 +20,6 @@ div {
 @media (orientation: portrait){
     body{
         width: 100%;
-        font-size: 1em;
+        font-size: 2.5em;
     }
 }
